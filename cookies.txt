@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.nayrathemes.com	TRUE	/demo/pro/hantus/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.nayrathemes.com	TRUE	/demo/pro/hantus/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.nayrathemes.com	TRUE	/demo/pro/hantus/	FALSE	1999999999	wp_woocommerce_session_3b2b201eb74c0efeb06cfe65d23416b7	ce903442227cbfb9dd9e1894ebbb92e5%7C%7C1618570088%7C%7C1618566488%7C%7C7f55c23de225a4c1db5618426645d20d
+www.nayrathemes.com	TRUE	/demo/pro/hantus/	FALSE	1999999999	woocommerce_recently_viewed	377%7C59%7C57%7C55%7C53
+www.nayrathemes.com	TRUE	/demo/pro/hantus/	FALSE	1999999999	woocommerce_cart_hash	922520b5a6226e7b2c7bb575338f291c
+.nayrathemes.com	TRUE	/	FALSE	1999999999	__cfduid	d8a14b67bbc847b5ca485a3c79dc1669a1618396913
+www.nayrathemes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
